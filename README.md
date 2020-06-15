@@ -9,4 +9,4 @@ To run this program, you should have latest version of python installed on your 
 2. Unzip the file in any location on your machine.
 3. Open the python shell or terminal
 4. Change the directory of the shell or terminal to the directory in which you unzip the file.
-5. To run the program type "python3 Breakfast_Bot.py" on the shell or terminal.
+5. To run the program type "python Breakfast_Bot.py" on the shell or terminal.
